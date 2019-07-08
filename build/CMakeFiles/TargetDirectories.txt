@@ -1,0 +1,6 @@
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/CMakeFiles/edit_cache.dir
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/CMakeFiles/rebuild_cache.dir
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/lib_testFunc/CMakeFiles/edit_cache.dir
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/lib_testFunc/CMakeFiles/testFunc_static.dir
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/lib_testFunc/CMakeFiles/rebuild_cache.dir
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/build/lib_testFunc/CMakeFiles/testFunc_shared.dir

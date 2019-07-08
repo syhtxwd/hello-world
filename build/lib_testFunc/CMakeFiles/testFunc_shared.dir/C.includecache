@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/lib_testFunc/testFunc.c
+stdio.h
+-
+testFunc.h
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/lib_testFunc/testFunc.h
+
+/home/syh/桌面/ubuntu/cmake/例子5/例子5/lib_testFunc/testFunc.h
+
